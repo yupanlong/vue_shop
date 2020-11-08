@@ -1,0 +1,58 @@
+{
+  "id": "2187970",
+  "name": "vue-shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "924728",
+      "name": "账户",
+      "font_class": "zhanghu",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1142238",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "1605761",
+      "name": "密码",
+      "font_class": "password",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "5344986",
+      "name": "账户",
+      "font_class": "zhanghu1",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "18018813",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "18018906",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18018980",
+      "name": "person",
+      "font_class": "person",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}
